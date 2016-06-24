@@ -8,17 +8,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/imZack/ptt.git"
+    "url": "git+https://github.com/shian48263/ptt.git"
   },
   "keywords": [
     "ptt"
   ],
-  "author": "YuLun Shih",
+  "author": "shian48263",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/imZack/ptt/issues"
+    "url": "https://github.com/shian48263/ptt/issues"
   },
-  "homepage": "https://github.com/imZack/ptt#readme",
+  "homepage": "https://github.com/shian48263/ptt#README",
   "dependencies": {
     "bluebird": "^3.1.5",
     "cheerio": "^0.20.0",
@@ -31,5 +31,6 @@
   },
   "engines": {
     "node": ">=4"
-  }
+  },
+  "private": true
 }
