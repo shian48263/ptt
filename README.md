@@ -3,7 +3,7 @@ Play PTT with JavaScript
 
 ## Install
 ```sh
-λ ~/ npm install ptt
+$ npm install shian48263/ptt
 ```
 
 ## Get Articles from Board
