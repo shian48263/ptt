@@ -1,4 +1,4 @@
-# ptt [![Build Status](https://travis-ci.org/imZack/ptt.svg?branch=master)](https://travis-ci.org/imZack/ptt)
+# ptt
 Play PTT with JavaScript
 
 ## Install
